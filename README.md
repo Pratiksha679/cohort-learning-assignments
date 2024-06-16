@@ -1,1 +1,1 @@
-# week-3-cohort-learning
+# cohort-learning assignments
